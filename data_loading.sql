@@ -1,9 +1,5 @@
 /*
 =================================================
-Milestone 1
-
-Nama  : Putri Joeliya
-Batch : CODA-RMT-020
 program ini di buat melakukan proses normalisasi pada database games fps, 
 melakukan staging data, DQl dan data export.
 =================================================
